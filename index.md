@@ -1,10 +1,10 @@
 ## Welcome to Y-LAB.
 
-まだ何もないよ:stuck_out_tongue:
+まだ何もないよ
 
 ### ぱいそんの禅
 
-:point_down: これでも見てね
+これでも見てね
 
 ```python
 import this
